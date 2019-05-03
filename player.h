@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+
+
+class Player {
+public:
+	string name;
+
+public:
+	Player() 
+	{
+
+		name = "";
+
+	}
+
+};
